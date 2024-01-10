@@ -49,9 +49,9 @@ I am an automated system (WhatsApp Bot) that can help to do something, search an
  ◦  *Function:* Assistant
  
 ┌  ◦ Uptime : %uptime
-│  ◦ Hari : %week %weton
-│  ◦ Waktu : %time
-│  ◦ Tanggal : %date
+│  ◦ දවස: %week %weton
+│  ◦ කාලය : %time
+│  ◦ දිනය : %date
 │  ◦ Version : %version
 └  ◦ Prefix Used : *[ %p ]*
 
